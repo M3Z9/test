@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T18:32:25.852Z" agent="5.0 (Windows)" etag="aNNjGV8ioAwsoVBBAxLh" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T18:45:43.902Z" agent="5.0 (Windows)" etag="tHysF1eMVhxJcrW7Hbor" version="20.7.4" type="github">
   <diagram name="Page-1" id="a7904f86-f2b4-8e86-fa97-74104820619b">
     <mxGraphModel dx="1257" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -180,6 +180,15 @@
             <mxPoint x="480" y="520" as="sourcePoint" />
             <mxPoint x="750" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1s92CzDfbmjdVP4__tP6-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1s92CzDfbmjdVP4__tP6-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="340" as="sourcePoint" />
+            <mxPoint x="320" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1s92CzDfbmjdVP4__tP6-37" value="Описание предметов&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;table width=&quot;116&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;116&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;width:87pt&quot; class=&quot;xl65&quot; width=&quot;116&quot; height=&quot;20&quot;&gt;id_ex&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
