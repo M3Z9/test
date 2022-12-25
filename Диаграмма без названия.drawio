@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T18:30:35.053Z" agent="5.0 (Windows)" etag="tweTECM2jvbk2k3fOjlU" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T18:31:17.852Z" agent="5.0 (Windows)" etag="d6UaxIBQGrtjM-PyHk5e" version="20.7.4" type="github">
   <diagram name="Page-1" id="a7904f86-f2b4-8e86-fa97-74104820619b">
     <mxGraphModel dx="1257" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -10,10 +10,10 @@
         <mxCell id="24794b860abc3c2d-18" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Выставочный зал &lt;/b&gt;&lt;br&gt;&lt;/p&gt;&amp;nbsp;id_h ключ&lt;br&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="480" y="610" width="140" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="24794b860abc3c2d-21" value="Экскурсоводы " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
+        <mxCell id="24794b860abc3c2d-21" value="Экскурсоводы &lt;br&gt;id_guide ключ" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="480" y="730" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="24794b860abc3c2d-22" value="&lt;div&gt;Группа, которая пришла&lt;/div&gt;&lt;div&gt;&amp;nbsp;на экскурсию &lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
+        <mxCell id="24794b860abc3c2d-22" value="&lt;div&gt;Группа, которая пришла&lt;/div&gt;&lt;div&gt;&amp;nbsp;на экскурсию &lt;/div&gt;&lt;br&gt;Group_id ключ" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="480" y="840" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="24794b860abc3c2d-25" value="Экспонаты 1 зала " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
